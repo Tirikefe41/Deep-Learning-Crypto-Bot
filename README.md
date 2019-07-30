@@ -1,3 +1,3 @@
 # Deep-Learning-Crypto-Bot
 
-Intentionally left unupdate for Preview purpose
+##Intentionally left unupdated for Preview purpose
